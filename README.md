@@ -10,7 +10,7 @@ This folder contains the shell script to clone Cassandra, Hbase and Redis VMs.
   
 
 # RedisDHT
-- This folder contains the implementation of Redis functionality like adding a new node, removeing a node, assigning hash slots, load balancing of hash slots, etc.
+- This folder contains the implementation of Redis functionality like adding a new node, removing a node, assigning hash slots, load balancing of hash slots, etc.
 
 - This folder also contains the launcher scripts to start redis nodes in different machine.
 
